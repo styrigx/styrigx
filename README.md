@@ -1,9 +1,7 @@
 ### Hi, I'm Sloan Gray 👋
 
-> To understand the world, take it apart; to believe in it, put it back together.
-> 拆开世界是为了看懂它，再把它装回去是为了相信它。
-
 I build my own corner of the web: one Space as the front door, small apps behind it, all on Cloudflare.
+
 我在搭自己的一小块互联网：Space 是入口，后面是一个个小 App，全部跑在 Cloudflare 上。
 
 **Sites · 站点**
